@@ -1,0 +1,18 @@
+/*
+ * Attiny841_TwoI2CDemo_20190130.cpp
+ *
+ * Created: 1/30/2019 12:19:34 PM
+ * Author : yt
+ */ 
+
+#include <avr/io.h>
+
+
+int main(void)
+{
+    /* Replace with your application code */
+    while (1) 
+    {
+    }
+}
+
